@@ -1,1 +1,3 @@
 allow system_server hal_light_default:process signal;
+
+r_dir_file(system_server, sysfs_battery_supply);
