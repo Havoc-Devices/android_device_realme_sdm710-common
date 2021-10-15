@@ -226,7 +226,6 @@ PRODUCT_PACKAGES += \
 # Doze
 PRODUCT_PACKAGES += \
     KharaMeParts \
-    KharaMeDirac
 
 # Fingerprint
 PRODUCT_PACKAGES += \
